@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+/*
+>>>>>>> d7e4208a150c4f0b07506b4c3506c756ec637735
 function addTwo(n1,n2) {
     let answer1 = n1 + n2
     return answer1
@@ -31,3 +35,4 @@ btnReset.onclick=function(){
   inptNum2.value = ""
   inptUserName.value = ""
 }
+*/
