@@ -69,11 +69,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-<<<<<<< HEAD
       "firstform": "membership",
-=======
-      "firstform": "newControls",
->>>>>>> d7e4208a150c4f0b07506b4c3506c756ec637735
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
