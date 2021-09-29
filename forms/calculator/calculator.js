@@ -1,3 +1,4 @@
+/*
 function addTwo(n1,n2) {
     let answer1 = n1 + n2
     return answer1
@@ -30,3 +31,4 @@ btnReset.onclick=function(){
   inptNum2.value = ""
   inptUserName.value = ""
 }
+*/
