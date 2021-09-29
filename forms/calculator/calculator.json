@@ -63,6 +63,15 @@
         "Elements",
         "alrtAnswer.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "inptUserName.json"
+      ]
     }
   ],
   "class": "",
